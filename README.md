@@ -269,7 +269,7 @@ puts response.dig("results", 0, "category_scores", "hate")
 
 ### Whisper
 
-Whisper is a speech to text model that can be used to generate text based on audio files:
+Whisper is a speech to text model that can be used to generate text based on an audio files:
 
 #### Translate
 
